@@ -7,6 +7,7 @@ public class aray {
 
 		for (int n : num) {
 			System.out.print(n + ",");
+			System.out.println("My name is Alex I have created a array message");
 		}
 	}
 }
